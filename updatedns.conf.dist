@@ -1,0 +1,4 @@
+hetzner_dns_api_token="Hetzner DNS API token"
+hetzner_dns_zone_id="Zone ID"
+hetzner_dns_record_id="Record ID"
+hetzner_dns_name="myhomeip"
